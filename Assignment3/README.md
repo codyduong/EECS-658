@@ -1,4 +1,4 @@
-# Assignment 2 | EECS 648
+# Assignment 3 | EECS 648
 
 The answers to Q4 are in [`./REPORT.md`](./REPORT.md)
 
