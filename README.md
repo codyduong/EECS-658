@@ -4,7 +4,7 @@ Taken with [David O. Johnson](https://web.archive.org/web/https://eecs.ku.edu/pe
 
 ## Grades
 
-> [! CAUTION]
+> [!CAUTION]
 > **Lab 01** (-36) forgor 💀 to do the manual part and answer part 6. All program work got 100% though. 
 
 | Assignment                               | Grade   |
