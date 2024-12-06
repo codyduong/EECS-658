@@ -6,7 +6,9 @@ Taken with [David O. Johnson](https://web.archive.org/web/https://eecs.ku.edu/pe
 
 > [!CAUTION]
 > **Lab 01** (-36) forgor 💀 to do the manual part and answer part 6. All program work got 100% though.
+> 
 > **Lab 05** (-30) did not have screenprints
+> 
 > **Lab 06** (-4) 3c, 7*7 would be best
 
 | Assignment                               | Grade   |
