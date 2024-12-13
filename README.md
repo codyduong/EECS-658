@@ -19,5 +19,5 @@ Taken with [David O. Johnson](https://web.archive.org/web/https://eecs.ku.edu/pe
 | [4](./Assignment%204%20Instructions.pdf) | 100/100 |
 | [5](./Assignment%205%20Instructions.pdf) | 70/100  |
 | [6](./Assignment%206%20Instructions.pdf) | 96/100  |
-| [7](./Assignment%207%20Instructions.pdf) |         |
+| [7](./Assignment%207%20Instructions.pdf) | 100/100 |
 | [8](./Assignment%208%20Instructions.pdf) |         |
